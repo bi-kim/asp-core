@@ -1,0 +1,8 @@
+/Users/kimbi/Desktop/asp-core/asp-pj/bin/Debug/netcoreapp1.1/asp-pj.deps.json
+/Users/kimbi/Desktop/asp-core/asp-pj/bin/Debug/netcoreapp1.1/asp-pj.runtimeconfig.json
+/Users/kimbi/Desktop/asp-core/asp-pj/bin/Debug/netcoreapp1.1/asp-pj.runtimeconfig.dev.json
+/Users/kimbi/Desktop/asp-core/asp-pj/bin/Debug/netcoreapp1.1/asp-pj.dll
+/Users/kimbi/Desktop/asp-core/asp-pj/bin/Debug/netcoreapp1.1/asp-pj.pdb
+/Users/kimbi/Desktop/asp-core/asp-pj/obj/Debug/netcoreapp1.1/asp-pj.AssemblyInfo.cs
+/Users/kimbi/Desktop/asp-core/asp-pj/obj/Debug/netcoreapp1.1/asp-pj.dll
+/Users/kimbi/Desktop/asp-core/asp-pj/obj/Debug/netcoreapp1.1/asp-pj.pdb
